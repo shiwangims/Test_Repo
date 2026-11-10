@@ -41,5 +41,6 @@ print(mystr)
 
 y = findSuString('on')
 print(y)
+print(y)
 
 
